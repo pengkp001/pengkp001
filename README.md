@@ -27,7 +27,7 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=pengkp001&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 연락하기
-- **이메일**: your.email@example.com
+- **이메일**: gusdud0325kp@gmail.com
 - **LinkedIn**: [LinkedIn 프로필 링크]
 - **Twitter**: [@yourTwitter](https://twitter.com/yourTwitter)
 - **블로그**: [블로그 주소]
